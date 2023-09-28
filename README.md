@@ -3,6 +3,10 @@
 ## Description
 This repository is a refactoring of the HTML and CSS used to serve the sample page that can be found [here](https://aaron-heath.github.io/html-css-git-refactor/). During the refactoring, various HTML elements, attributes, and classes were consolidated and updated to improve readability, longevity, and accessibility. Throughout the process, the continued unchanged function and design of the website was crucial as there were to be no stylistic edits.
 
+See the a screenshot below:
+
+![Horiseon landing page screenshot](assets/images/aaron-heath.github.io_html-css-git-refactor_.png)
+
 ## Installation
 
 N/A
